@@ -1,0 +1,15 @@
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.csproj.AssemblyReference.cache
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.AssemblyInfoInputs.cache
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.AssemblyInfo.cs
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.csproj.CoreCompileInputs.cache
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\bin\Debug\net6.0\ThirdLecture.exe
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\bin\Debug\net6.0\ThirdLecture.deps.json
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\bin\Debug\net6.0\ThirdLecture.runtimeconfig.json
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\bin\Debug\net6.0\ThirdLecture.dll
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\bin\Debug\net6.0\ThirdLecture.pdb
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.dll
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\refint\ThirdLecture.dll
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.pdb
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ThirdLecture.genruntimeconfig.cache
+C:\Users\37125\Desktop\Lekcijas\3. lekcija\ThirdLecture\ThirdLecture\obj\Debug\net6.0\ref\ThirdLecture.dll
